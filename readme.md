@@ -1,0 +1,1 @@
+Olá, está será minha primeira tentativa de fazer sozinho o passo a passo para usar o git.
